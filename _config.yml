@@ -1,3 +1,17 @@
-theme: jekyll-theme-minimal
-title: Francois Hao's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: He(Francois) Hao
+description: PhD Researcher in smart battery system
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: dark
+
+header_pages:
+  - index.md
+  - projects.md
+  - publications.md
+  - contact.md
