@@ -5,7 +5,8 @@ title: Home
 
 # Hi, I'm **Francois Hao**
 
-PhD Researcher working on **Powerline Communication (PLC) in Smart Battery Systems**
+PhD Researcher at the Battery System Group & Connectivity and Navigation Systems Research Group, WMG, University of Warwick, UK.
+I'm working on **Powerline Communication (PLC) in Smart Battery Systems**
 
 ---
 
@@ -31,7 +32,7 @@ I am currently investigating how PLC performance varies across different battery
 - MATLAB / Python
 - NI LabVIEW
 - VNA measurement & RF testing
-- Embedded systems
+- Embedded systems C/C++, Linux, RTOS, QNX
 - Battery cycling analysis
 
 ---
