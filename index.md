@@ -9,7 +9,7 @@ title: Home
 </p>
 PhD Researcher at the Battery System Group & Connectivity and Navigation Systems Research Group, WMG, University of Warwick, UK.
 
-I'm working on **Powerline Communication (PLC) in Smart Battery Systems** and under Dr. Timothy Vincent and Prof. Matthew Higgins supervision.
+I'm working on **Powerline Communication (PLC) in Smart Battery Systems** and under **Dr. Timothy Vincent** and **Prof. Matthew Higgins** supervision.
 
 ---
 
