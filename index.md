@@ -5,7 +5,7 @@ title: Home
 
 # Hi, I'm **Francois Hao**
 
-PhD Researcher working on **Powerline Communication (PLC) in Battery Systems**
+PhD Researcher working on **Powerline Communication (PLC) in Smart Battery Systems**
 
 ---
 
@@ -38,6 +38,6 @@ I am currently investigating how PLC performance varies across different battery
 
 ## 📫 Contact
 
-- Email: you@example.com  
-- GitHub: https://github.com/yourusername  
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: francois.hao@warwick.ac.uk  
+- GitHub:https://github.com/amazingHH  
+- LinkedIn: https://www.linkedin.com/in/fran%C3%A7ois-he-hao-5195b217b/
